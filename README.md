@@ -1,58 +1,50 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Juheth Ariza</h1></summary>
-  </ul>
+<div align="center">
+  <h1>Juheth Ariza</h1>
+  <h3>Backend Developer · Go (Golang) · APIs REST · MySQL</h3>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Backend Developer especializado en Go (Golang)</h2></summary>
-  </ul>
-</div>
+## Sobre mí
 
-- 🔭 Actualmente trabajo con **Go, APIs REST, MySQL, JWT y Docker**
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- 🌱 Estoy aprendiendo **microservicios y arquitecturas cloud-native**
+- 🎓 Soy estudiante de `Ingeniería de Sistemas y Desarrollo de Software` en la [Fundación Universitaria Tecnológico Comfenalco](https://www.tecnocomfenalco.edu.co/).
+- 💻 Actualmente trabajo como `Backend Developer` en [Nexcol](#), desarrollando **Obria**, un CRM empresarial de 20+ módulos.
+- 🧪 Vengo de un background en `QA / Testing de Software`, así que escribo backend pensando en `casos borde`, validaciones y manejo de errores desde el diseño.
+- 🛠️ Aplico principios de `Clean Architecture`, `Repository Pattern` y `Use Cases` para mantener el código desacoplado y escalable.
+- 🌱 Profundizando en el diseño de `APIs REST escalables` y `bases de datos relacionales avanzadas`.
+- 📫 Contáctame por [correo](mailto:juheth.ariza@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/juheth).
 
-- 🧪 Vengo de un background en **QA / Testing de Software**, así que escribo backend pensando en casos borde y validaciones desde el diseño
+<br clear="right">
 
-- 🎓 Estudio Ingeniería de Sistemas y Desarrollo de Software
+---
 
-- 💬 Pregúntame sobre **Go, APIs REST, Clean Architecture, MySQL, JWT/Auth**
+### Enfoque actual
 
-- 📫 Contáctame: **juheth.ariza@gmail.com**
+- Desarrollo de sistemas backend en producción utilizando **Go, APIs REST, MySQL, JWT y Docker**
+- Aplicación de **Clean Architecture** y buenas prácticas de diseño (Repository Pattern, Use Cases)
+- Profundizando en el diseño de **APIs REST escalables** y fundamentos de **bases de datos relacionales avanzadas**
+- Formación en **Ingeniería de Sistemas y Desarrollo de Software**
+
+---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuhethAriza&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  <img title="🔥 Racha de contribuciones" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhethAriza&theme=dark&hide_border=false" />
+  <img title="Racha de contribuciones" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhethAriza&theme=dark&hide_border=false" />
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+### Stack técnico
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,mysql,docker,git,github,postman,java,js,html,css,py,linux,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=go,mysql,docker,git,github,postman,java,js,html,css,py,linux,ubuntu,vscode&perline=14" />
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta conmigo 🤝</h2></summary>
-  </ul>
-</div>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/juheth" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Plantilla base inspirada en el trabajo de [1010nishant](https://github.com/1010nishant)
