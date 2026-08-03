@@ -27,10 +27,6 @@
 
 ---
 
-<p align="center">
-  <img title="Racha de contribuciones" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhethAriza&theme=dark&hide_border=false" />
-</p>
-
 ### Stack técnico
 <p align="center">
   <a href="https://skillicons.dev">
